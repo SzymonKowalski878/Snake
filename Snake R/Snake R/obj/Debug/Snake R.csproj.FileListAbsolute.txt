@@ -1,0 +1,19 @@
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\obj\Debug\Snake R.csprojAssemblyReference.cache
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\obj\Debug\Snake R.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\bin\Debug\Snake R.exe.config
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\bin\Debug\Snake R.exe
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\bin\Debug\Snake R.pdb
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\obj\Debug\Snake R.exe
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\obj\Debug\Snake R.pdb
+E:\c#\Snake R\Snake R\obj\Debug\Snake R.csprojAssemblyReference.cache
+E:\c#\Snake R\Snake R\obj\Debug\Snake R.exe
+E:\c#\Snake R\Snake R\obj\Debug\Snake R.pdb
+E:\c#\Snake R\Snake R\bin\Debug\Snake R.exe.config
+E:\c#\Snake R\Snake R\bin\Debug\Snake R.exe
+E:\c#\Snake R\Snake R\bin\Debug\Snake R.pdb
+C:\Users\Szymon_2\Desktop\c#\na zajęcia\zadanie 6.11\Snake R\Snake R\bin\Debug\Snake R.exe.config
+C:\Users\Szymon_2\Desktop\c#\na zajęcia\zadanie 6.11\Snake R\Snake R\bin\Debug\Snake R.exe
+C:\Users\Szymon_2\Desktop\c#\na zajęcia\zadanie 6.11\Snake R\Snake R\bin\Debug\Snake R.pdb
+C:\Users\Szymon_2\Desktop\c#\na zajęcia\zadanie 6.11\Snake R\Snake R\obj\Debug\Snake R.csprojAssemblyReference.cache
+C:\Users\Szymon_2\Desktop\c#\na zajęcia\zadanie 6.11\Snake R\Snake R\obj\Debug\Snake R.exe
+C:\Users\Szymon_2\Desktop\c#\na zajęcia\zadanie 6.11\Snake R\Snake R\obj\Debug\Snake R.pdb
