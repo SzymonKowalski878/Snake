@@ -1,0 +1,14 @@
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\obj\Debug\Snake R.csprojAssemblyReference.cache
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\obj\Debug\Snake R.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\bin\Debug\Snake R.exe.config
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\bin\Debug\Snake R.exe
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\bin\Debug\Snake R.pdb
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\obj\Debug\Snake R.exe
+C:\Users\Szymon\Desktop\c#\Snake R\Snake R\obj\Debug\Snake R.pdb
+C:\Users\Szymon\Desktop\Snake R\bin\Debug\Snake R.exe.config
+C:\Users\Szymon\Desktop\Snake R\bin\Debug\Snake R.exe
+C:\Users\Szymon\Desktop\Snake R\bin\Debug\Snake R.pdb
+C:\Users\Szymon\Desktop\Snake R\obj\Debug\Snake R.csprojAssemblyReference.cache
+C:\Users\Szymon\Desktop\Snake R\obj\Debug\Snake R.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Snake R\obj\Debug\Snake R.exe
+C:\Users\Szymon\Desktop\Snake R\obj\Debug\Snake R.pdb
